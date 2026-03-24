@@ -1,0 +1,7 @@
+road
+avenue
+way
+lane
+walk
+drive
+street

@@ -1,0 +1,8 @@
+fantasy
+horror
+sci-fi
+mystery
+romance
+history
+biography
+memoir

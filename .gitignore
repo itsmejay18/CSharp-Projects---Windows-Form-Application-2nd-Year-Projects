@@ -1,0 +1,6 @@
+# Ignore common IDE and build output from regular project folders
+**/.vs/
+**/[Bb]in/
+**/[Oo]bj/
+**/*.suo
+**/*.user
