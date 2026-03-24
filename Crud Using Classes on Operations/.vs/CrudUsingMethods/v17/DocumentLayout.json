@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|c:\\users\\jay jemino ababon\\source\\repos\\backup files\\crudusingmethods\\classes\\repositories\\baserepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|solutionrelative:classes\\repositories\\baserepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB1CFAE8-4712-4705-861A-5D8F2619BE4E}|CrudUsingMethods.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "Classes\\Product.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Classes\\Product.cs",
+              "RelativeToolTip": "Classes\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:25:54.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:25:54.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:25:54.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:25:54.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepositoty.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Classes\\Repositories\\BaseRepositoty.cs",
+              "RelativeDocumentMoniker": "Classes\\Repositories\\BaseRepositoty.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Classes\\Repositories\\BaseRepositoty.cs",
+              "RelativeToolTip": "Classes\\Repositories\\BaseRepositoty.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:25:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Backup Files\\CrudUsingMethods\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:25:55.304Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\bin\Debug\Bank Exam.exe.config
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\bin\Debug\Bank Exam.exe
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\bin\Debug\Bank Exam.pdb
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\obj\Debug\Bank Exam.csproj.AssemblyReference.cache
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\obj\Debug\Bank_Exam.BankingForm.resources
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\obj\Debug\Bank_Exam.Properties.Resources.resources
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\obj\Debug\Bank Exam.csproj.GenerateResource.cache
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\obj\Debug\Bank Exam.csproj.CoreCompileInputs.cache
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\obj\Debug\Bank Exam.exe
+C:\Users\jayje\source\repos\Bank Exam\Bank Exam\obj\Debug\Bank Exam.pdb

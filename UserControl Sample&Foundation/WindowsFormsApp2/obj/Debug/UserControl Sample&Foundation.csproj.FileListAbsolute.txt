@@ -1,0 +1,11 @@
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\UserControl Sample&Foundation.csproj.AssemblyReference.cache
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\UserControl Sample&Foundation.csproj.GenerateResource.cache
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\UserControl Sample&Foundation.csproj.CoreCompileInputs.cache
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\jayje\source\repos\UserControl Sample&Foundation\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

@@ -1,0 +1,1603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8480A536-B16F-4348-BA7B-D1D83BE862E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>StudentGradingSystem</RootNamespace>
+    <AssemblyName>StudentGradingSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.25.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.25.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialSkin.2.2.3.1\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.4.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.4.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Siticone.Desktop.UI, Version=2.0.7.0, Culture=neutral, PublicKeyToken=8007fe7702ed05c2, processorArchitecture=MSIL">
+      <HintPath>packages\Siticone.Desktop.UI.2.0.7\lib\net40\Siticone.Desktop.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Configuration.ConfigurationManager.4.4.1\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZstdSharp, Version=0.7.1.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>packages\ZstdSharp.Port.0.7.1\lib\net461\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACT-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACT-1styear-1stsem.Designer.cs">
+      <DependentUpon>ACT-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACT-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACT-1styear-2ndsem.Designer.cs">
+      <DependentUpon>ACT-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Act-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Act-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>Act-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACT-2ndyear-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACT-2ndyear-Listview.Designer.cs">
+      <DependentUpon>ACT-2ndyear-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSA-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSA-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSA-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSA-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSA-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSA-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSA-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSA-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSA-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSA-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSAB-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSAB-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSAB-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAB-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSAB-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAB-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSAB-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAB-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAB-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAB-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-1st-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-1st-Listview.Designer.cs">
+      <DependentUpon>BSABE-1st-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSABE-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-2nd-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-2nd-Listview.Designer.cs">
+      <DependentUpon>BSABE-2nd-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSABE-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-3rd-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-3rd-Listview.Designer.cs">
+      <DependentUpon>BSABE-3rd-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSABE-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-4th-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-4th-2ndsem.Designer.cs">
+      <DependentUpon>BSABE-4th-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSABE-4th-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSABE-4th-Listview.Designer.cs">
+      <DependentUpon>BSABE-4th-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSAIS-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSAIS-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSAIS-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAIS-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSAIS-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAIS-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSAIS-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAIS-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAIS-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAIS-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSAMASCPH-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSAMASCPH-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSAMASCPH-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSDC-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSDC-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSDC-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSDC-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSDC-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSDC-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSDC-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSDC-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSDC-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSDC-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSEE-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSEE-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-2ndyear-1sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-2ndyear-1sem.Designer.cs">
+      <DependentUpon>BSEE-2ndyear-1sem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEE-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSEE-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEE-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSEE-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEE-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEE-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEE-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSEME-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSEME-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSEME-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEME-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSEME-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEME-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSEME-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEME-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEME-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEME-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMF-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-1year-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-1year-1stsem.Designer.cs">
+      <DependentUpon>BSEMF-1year-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMF-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMF-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-3rdyear-1styear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-3rdyear-1styear.Designer.cs">
+      <DependentUpon>BSEMF-3rdyear-1styear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMF-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMF-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMF-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMF-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMF-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSEMHE-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMHE-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMHE-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMHE-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMHE-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMHE-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-4htyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-4htyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMHE-4htyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMHE-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMHE-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMHE-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSEMM-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMM-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMM-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMM-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMM-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMM-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMM-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMM-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMM-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMM-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSEMS-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMS-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMS-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMS-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMS-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMS-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMS-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMS-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMS-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMS-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSEMSS-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMSS-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMSS-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMSS-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-3rdyear-1styear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-3rdyear-1styear.Designer.cs">
+      <DependentUpon>BSEMSS-3rdyear-1styear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMSS-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSEMSS-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSEMSS-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSEMSS-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSEMSS-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-1st-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-1st-Listview.Designer.cs">
+      <DependentUpon>BSIS-1st-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSIS-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-2nd-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-2nd-Listview.Designer.cs">
+      <DependentUpon>BSIS-2nd-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSIS-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-3rd-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-3rd-Listview.Designer.cs">
+      <DependentUpon>BSIS-3rd-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSIS-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-4th-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-4th-Listview.Designer.cs">
+      <DependentUpon>BSIS-4th-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIS-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIS-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSIS-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-1st-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-1st-Listview.Designer.cs">
+      <DependentUpon>BSIT-1st-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSIT-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-2nd-LIstview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-2nd-LIstview.Designer.cs">
+      <DependentUpon>BSIT-2nd-LIstview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSIT-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-3rd-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-3rd-Listview.Designer.cs">
+      <DependentUpon>BSIT-3rd-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSIT-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-4th-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-4th-Listview.Designer.cs">
+      <DependentUpon>BSIT-4th-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSIT-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSIT-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-1styear-1stsem.Designer.cs">
+      <DependentUpon>BSPA-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-1styear-2ndsem.Designer.cs">
+      <DependentUpon>BSPA-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>BSPA-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>BSPA-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-3rdyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-3rdyear-1stsem.Designer.cs">
+      <DependentUpon>BSPA-3rdyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>BSPA-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-4thyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-4thyear-1stsem.Designer.cs">
+      <DependentUpon>BSPA-4thyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSPA-4thyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSPA-4thyear-2ndsem.Designer.cs">
+      <DependentUpon>BSPA-4thyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAS-1styear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAS-1styear-1stsem.Designer.cs">
+      <DependentUpon>CAS-1styear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAS-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAS-1styear-2ndsem.Designer.cs">
+      <DependentUpon>CAS-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAS-2ndyear-1stsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAS-2ndyear-1stsem.Designer.cs">
+      <DependentUpon>CAS-2ndyear-1stsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAS-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAS-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>CAS-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseInstitute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseInstitute.Designer.cs">
+      <DependentUpon>ChooseInstitute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIT-1st-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIT-1st-Listview.Designer.cs">
+      <DependentUpon>DIT-1st-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIT-1styear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIT-1styear-2ndsem.Designer.cs">
+      <DependentUpon>DIT-1styear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIT-2nd-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIT-2nd-Listview.Designer.cs">
+      <DependentUpon>DIT-2nd-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIT-2ndyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIT-2ndyear-2ndsem.Designer.cs">
+      <DependentUpon>DIT-2ndyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIT-3rd-Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIT-3rd-Listview.Designer.cs">
+      <DependentUpon>DIT-3rd-Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIT-3rdyear-2ndsem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIT-3rdyear-2ndsem.Designer.cs">
+      <DependentUpon>DIT-3rdyear-2ndsem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IARS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IARS.Designer.cs">
+      <DependentUpon>IARS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IBEG-INSTITUTE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IBEG-INSTITUTE.Designer.cs">
+      <DependentUpon>IBEG-INSTITUTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IBEG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IBEG.Designer.cs">
+      <DependentUpon>IBEG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ICET.Designer.cs">
+      <DependentUpon>ICET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ITED.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITED.Designer.cs">
+      <DependentUpon>ITED.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Signup.Designer.cs">
+      <DependentUpon>Signup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ACT-1styear-1stsem.resx">
+      <DependentUpon>ACT-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACT-1styear-2ndsem.resx">
+      <DependentUpon>ACT-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Act-2ndyear-2ndsem.resx">
+      <DependentUpon>Act-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACT-2ndyear-Listview.resx">
+      <DependentUpon>ACT-2ndyear-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-1styear-1stsem.resx">
+      <DependentUpon>BSA-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-1styear-2ndsem.resx">
+      <DependentUpon>BSA-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-2ndyear-1stsem.resx">
+      <DependentUpon>BSA-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-2ndyear-2ndsem.resx">
+      <DependentUpon>BSA-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-3rdyear-1stsem.resx">
+      <DependentUpon>BSA-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-3rdyear-2ndsem.resx">
+      <DependentUpon>BSA-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-4thyear-1stsem.resx">
+      <DependentUpon>BSA-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSA-4thyear-2ndsem.resx">
+      <DependentUpon>BSA-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-1styear-1stsem.resx">
+      <DependentUpon>BSAB-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-1styear-2ndsem.resx">
+      <DependentUpon>BSAB-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-2ndyear-1stsem.resx">
+      <DependentUpon>BSAB-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-2ndyear-2ndsem.resx">
+      <DependentUpon>BSAB-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-3rdyear-1stsem.resx">
+      <DependentUpon>BSAB-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-3rdyear-2ndsem.resx">
+      <DependentUpon>BSAB-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-4thyear-1stsem.resx">
+      <DependentUpon>BSAB-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAB-4thyear-2ndsem.resx">
+      <DependentUpon>BSAB-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-1st-Listview.resx">
+      <DependentUpon>BSABE-1st-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-1styear-2ndsem.resx">
+      <DependentUpon>BSABE-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-2nd-Listview.resx">
+      <DependentUpon>BSABE-2nd-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-2ndyear-2ndsem.resx">
+      <DependentUpon>BSABE-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-3rd-Listview.resx">
+      <DependentUpon>BSABE-3rd-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-3rdyear-2ndsem.resx">
+      <DependentUpon>BSABE-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-4th-2ndsem.resx">
+      <DependentUpon>BSABE-4th-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSABE-4th-Listview.resx">
+      <DependentUpon>BSABE-4th-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-1styear-1stsem.resx">
+      <DependentUpon>BSAIS-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-1styear-2ndsem.resx">
+      <DependentUpon>BSAIS-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-2ndyear-1stsem.resx">
+      <DependentUpon>BSAIS-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-2ndyear-2ndsem.resx">
+      <DependentUpon>BSAIS-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-3rdyear-1stsem.resx">
+      <DependentUpon>BSAIS-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-3rdyear-2ndsem.resx">
+      <DependentUpon>BSAIS-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-4thyear-1stsem.resx">
+      <DependentUpon>BSAIS-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAIS-4thyear-2ndsem.resx">
+      <DependentUpon>BSAIS-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-1styear-1stsem.resx">
+      <DependentUpon>BSAMASCPH-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-1styear-2ndsem.resx">
+      <DependentUpon>BSAMASCPH-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-2ndyear-1stsem.resx">
+      <DependentUpon>BSAMASCPH-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-2ndyear-2ndsem.resx">
+      <DependentUpon>BSAMASCPH-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-3rdyear-1stsem.resx">
+      <DependentUpon>BSAMASCPH-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-3rdyear-2ndsem.resx">
+      <DependentUpon>BSAMASCPH-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-4thyear-1stsem.resx">
+      <DependentUpon>BSAMASCPH-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSAMASCPH-4thyear-2ndsem.resx">
+      <DependentUpon>BSAMASCPH-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-1styear-1stsem.resx">
+      <DependentUpon>BSDC-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-1styear-2ndsem.resx">
+      <DependentUpon>BSDC-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-2ndyear-1stsem.resx">
+      <DependentUpon>BSDC-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-2ndyear-2ndsem.resx">
+      <DependentUpon>BSDC-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-3rdyear-1stsem.resx">
+      <DependentUpon>BSDC-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-3rdyear-2ndsem.resx">
+      <DependentUpon>BSDC-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-4thyear-1stsem.resx">
+      <DependentUpon>BSDC-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSDC-4thyear-2ndsem.resx">
+      <DependentUpon>BSDC-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-1styear-1stsem.resx">
+      <DependentUpon>BSEE-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-1styear-2ndsem.resx">
+      <DependentUpon>BSEE-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-2ndyear-1sem.resx">
+      <DependentUpon>BSEE-2ndyear-1sem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-2ndyear-2ndsem.resx">
+      <DependentUpon>BSEE-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-3rdyear-1stsem.resx">
+      <DependentUpon>BSEE-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-3rdyear-2ndsem.resx">
+      <DependentUpon>BSEE-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-4thyear-1stsem.resx">
+      <DependentUpon>BSEE-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEE-4thyear-2ndsem.resx">
+      <DependentUpon>BSEE-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-1styear-1stsem.resx">
+      <DependentUpon>BSEME-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-1styear-2ndsem.resx">
+      <DependentUpon>BSEME-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-2ndyear-1stsem.resx">
+      <DependentUpon>BSEME-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-2ndyear-2ndsem.resx">
+      <DependentUpon>BSEME-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-3rdyear-1stsem.resx">
+      <DependentUpon>BSEME-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-3rdyear-2ndsem.resx">
+      <DependentUpon>BSEME-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-4thyear-1stsem.resx">
+      <DependentUpon>BSEME-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEME-4thyear-2ndsem.resx">
+      <DependentUpon>BSEME-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-1styear-2ndsem.resx">
+      <DependentUpon>BSEMF-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-1year-1stsem.resx">
+      <DependentUpon>BSEMF-1year-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-2ndyear-1stsem.resx">
+      <DependentUpon>BSEMF-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-2ndyear-2ndsem.resx">
+      <DependentUpon>BSEMF-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-3rdyear-1styear.resx">
+      <DependentUpon>BSEMF-3rdyear-1styear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-3rdyear-2ndsem.resx">
+      <DependentUpon>BSEMF-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-4thyear-1stsem.resx">
+      <DependentUpon>BSEMF-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMF-4thyear-2ndsem.resx">
+      <DependentUpon>BSEMF-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-1styear-1stsem.resx">
+      <DependentUpon>BSEMHE-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-1styear-2ndsem.resx">
+      <DependentUpon>BSEMHE-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-2ndyear-1stsem.resx">
+      <DependentUpon>BSEMHE-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-2ndyear-2ndsem.resx">
+      <DependentUpon>BSEMHE-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-3rdyear-1stsem.resx">
+      <DependentUpon>BSEMHE-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-3rdyear-2ndsem.resx">
+      <DependentUpon>BSEMHE-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-4htyear-2ndsem.resx">
+      <DependentUpon>BSEMHE-4htyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMHE-4thyear-1stsem.resx">
+      <DependentUpon>BSEMHE-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-1styear-1stsem.resx">
+      <DependentUpon>BSEMM-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-1styear-2ndsem.resx">
+      <DependentUpon>BSEMM-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-2ndyear-1stsem.resx">
+      <DependentUpon>BSEMM-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-2ndyear-2ndsem.resx">
+      <DependentUpon>BSEMM-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-3rdyear-1stsem.resx">
+      <DependentUpon>BSEMM-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-3rdyear-2ndsem.resx">
+      <DependentUpon>BSEMM-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-4thyear-1stsem.resx">
+      <DependentUpon>BSEMM-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMM-4thyear-2ndsem.resx">
+      <DependentUpon>BSEMM-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-1styear-1stsem.resx">
+      <DependentUpon>BSEMS-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-1styear-2ndsem.resx">
+      <DependentUpon>BSEMS-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-2ndyear-1stsem.resx">
+      <DependentUpon>BSEMS-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-2ndyear-2ndsem.resx">
+      <DependentUpon>BSEMS-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-3rdyear-1stsem.resx">
+      <DependentUpon>BSEMS-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-3rdyear-2ndsem.resx">
+      <DependentUpon>BSEMS-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-4thyear-1stsem.resx">
+      <DependentUpon>BSEMS-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMS-4thyear-2ndsem.resx">
+      <DependentUpon>BSEMS-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-1styear-1stsem.resx">
+      <DependentUpon>BSEMSS-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-1styear-2ndsem.resx">
+      <DependentUpon>BSEMSS-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-2ndyear-1stsem.resx">
+      <DependentUpon>BSEMSS-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-2ndyear-2ndsem.resx">
+      <DependentUpon>BSEMSS-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-3rdyear-1styear.resx">
+      <DependentUpon>BSEMSS-3rdyear-1styear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-3rdyear-2ndsem.resx">
+      <DependentUpon>BSEMSS-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-4thyear-1stsem.resx">
+      <DependentUpon>BSEMSS-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSEMSS-4thyear-2ndsem.resx">
+      <DependentUpon>BSEMSS-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-1st-Listview.resx">
+      <DependentUpon>BSIS-1st-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-1styear-2ndsem.resx">
+      <DependentUpon>BSIS-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-2nd-Listview.resx">
+      <DependentUpon>BSIS-2nd-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-2ndyear-2ndsem.resx">
+      <DependentUpon>BSIS-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-3rd-Listview.resx">
+      <DependentUpon>BSIS-3rd-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-3rdyear-2ndsem.resx">
+      <DependentUpon>BSIS-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-4th-Listview.resx">
+      <DependentUpon>BSIS-4th-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIS-4thyear-2ndsem.resx">
+      <DependentUpon>BSIS-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-1st-Listview.resx">
+      <DependentUpon>BSIT-1st-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-1styear-2ndsem.resx">
+      <DependentUpon>BSIT-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-2nd-LIstview.resx">
+      <DependentUpon>BSIT-2nd-LIstview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-2ndyear-2ndsem.resx">
+      <DependentUpon>BSIT-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-3rd-Listview.resx">
+      <DependentUpon>BSIT-3rd-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-3rdyear-2ndsem.resx">
+      <DependentUpon>BSIT-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-4th-Listview.resx">
+      <DependentUpon>BSIT-4th-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSIT-4thyear-2ndsem.resx">
+      <DependentUpon>BSIT-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-1styear-1stsem.resx">
+      <DependentUpon>BSPA-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-1styear-2ndsem.resx">
+      <DependentUpon>BSPA-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-2ndyear-1stsem.resx">
+      <DependentUpon>BSPA-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-2ndyear-2ndsem.resx">
+      <DependentUpon>BSPA-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-3rdyear-1stsem.resx">
+      <DependentUpon>BSPA-3rdyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-3rdyear-2ndsem.resx">
+      <DependentUpon>BSPA-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-4thyear-1stsem.resx">
+      <DependentUpon>BSPA-4thyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSPA-4thyear-2ndsem.resx">
+      <DependentUpon>BSPA-4thyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAS-1styear-1stsem.resx">
+      <DependentUpon>CAS-1styear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAS-1styear-2ndsem.resx">
+      <DependentUpon>CAS-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAS-2ndyear-1stsem.resx">
+      <DependentUpon>CAS-2ndyear-1stsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAS-2ndyear-2ndsem.resx">
+      <DependentUpon>CAS-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseInstitute.resx">
+      <DependentUpon>ChooseInstitute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIT-1st-Listview.resx">
+      <DependentUpon>DIT-1st-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIT-1styear-2ndsem.resx">
+      <DependentUpon>DIT-1styear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIT-2nd-Listview.resx">
+      <DependentUpon>DIT-2nd-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIT-2ndyear-2ndsem.resx">
+      <DependentUpon>DIT-2ndyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIT-3rd-Listview.resx">
+      <DependentUpon>DIT-3rd-Listview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIT-3rdyear-2ndsem.resx">
+      <DependentUpon>DIT-3rdyear-2ndsem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IARS.resx">
+      <DependentUpon>IARS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IBEG-INSTITUTE.resx">
+      <DependentUpon>IBEG-INSTITUTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IBEG.resx">
+      <DependentUpon>IBEG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICET.resx">
+      <DependentUpon>ICET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITED.resx">
+      <DependentUpon>ITED.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Signup.resx">
+      <DependentUpon>Signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pieces-blue-stationery_23-2148169528.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dssc_logo_official.ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dssc_logo_official.ico1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IARSlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IBEGlogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ITEDlogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICETlogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IARS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IBEG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICET.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ITED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICET1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IARS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IBEG1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ITED1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_20240331_061355_edit_445387006607490.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_03-31-06.12.35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_03-31-06.25.12_edit_446071825261552.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yesoummmmmmmmm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICET.FIX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yawa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IBEG2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ITEDDD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iteedddnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IARRRSSSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trydawni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icettttttttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dfgbnfgdngfgf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hggfhfghfhhhn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icettttttttt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trydawni1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_03-28-07.54.241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_03-28-07.51.231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_03-28-07.50.021.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_03-28-07.52.491.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

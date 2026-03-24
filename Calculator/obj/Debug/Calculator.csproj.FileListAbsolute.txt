@@ -1,0 +1,20 @@
+D:\c#\Calculator\bin\Debug\Calculator.exe.config
+D:\c#\Calculator\bin\Debug\Calculator.exe
+D:\c#\Calculator\bin\Debug\Calculator.pdb
+D:\c#\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\c#\Calculator\obj\Debug\Calculator.Form1.resources
+D:\c#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\c#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\c#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\c#\Calculator\obj\Debug\Calculator.exe
+D:\c#\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\bin\Debug\Calculator.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\obj\Debug\Calculator.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Calculator\obj\Debug\Calculator.pdb

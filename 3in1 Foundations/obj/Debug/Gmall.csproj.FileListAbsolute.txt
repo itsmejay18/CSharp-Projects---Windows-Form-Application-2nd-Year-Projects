@@ -1,0 +1,36 @@
+D:\c#\Gmall\obj\Debug\Gmall.csproj.AssemblyReference.cache
+D:\c#\Gmall\obj\Debug\Gmall.Form1.resources
+D:\c#\Gmall\obj\Debug\Gmall.Form2.resources
+D:\c#\Gmall\obj\Debug\Gmall.Properties.Resources.resources
+D:\c#\Gmall\obj\Debug\Gmall.csproj.GenerateResource.cache
+D:\c#\Gmall\obj\Debug\Gmall.csproj.CoreCompileInputs.cache
+D:\c#\Gmall\bin\Debug\Gmall.exe.config
+D:\c#\Gmall\bin\Debug\Gmall.exe
+D:\c#\Gmall\bin\Debug\Gmall.pdb
+D:\c#\Gmall\obj\Debug\Gmall.exe
+D:\c#\Gmall\obj\Debug\Gmall.pdb
+D:\c#\Gmall\obj\Debug\Gmall.Form3.resources
+F:\Back-Up\c#\Gmall\bin\Debug\Gmall.exe.config
+F:\Back-Up\c#\Gmall\bin\Debug\Gmall.exe
+F:\Back-Up\c#\Gmall\bin\Debug\Gmall.pdb
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.csproj.AssemblyReference.cache
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.Form1.resources
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.Form2.resources
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.Form3.resources
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.Properties.Resources.resources
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.csproj.GenerateResource.cache
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.csproj.CoreCompileInputs.cache
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.exe
+F:\Back-Up\c#\Gmall\obj\Debug\Gmall.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\bin\Debug\Gmall.exe.config
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\bin\Debug\Gmall.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\bin\Debug\Gmall.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.csproj.AssemblyReference.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.Form1.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.Form2.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.Form3.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.Properties.Resources.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.csproj.GenerateResource.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\Gmall\obj\Debug\Gmall.pdb

@@ -1,0 +1,1096 @@
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form1.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Properties.Resources.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseInstitute.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IARS.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ICET.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ITED.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Signup.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1st_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2nd_LIstview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rd_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4th_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1st_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2nd_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rd_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1st_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2nd_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rd_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4th_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1st_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2nd_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rd_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_Listview.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_1sem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4htyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_1styear.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1year_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_1styear.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_1stsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_2ndsem.resources
+C:\Users\Mary Carlie Nicole\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+C:\Users\kianv\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+C:\Users\kianv\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1st_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2nd_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rd_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_1sem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1year_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_1styear.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4htyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_1styear.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1st_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2nd_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rd_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4th_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1st_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2nd_LIstview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rd_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4th_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_1stsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseInstitute.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1st_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1styear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2nd_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2ndyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rd_Listview.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rdyear_2ndsem.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form1.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IARS.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ICET.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ITED.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Properties.Resources.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Signup.resources
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb
+C:\Users\kianv\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form2.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1st_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2nd_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rd_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_1sem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1year_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_1styear.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4htyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_1styear.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1st_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2nd_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rd_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4th_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1st_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2nd_LIstview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rd_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4th_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_1stsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseInstitute.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1st_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1styear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2nd_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2ndyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rd_Listview.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rdyear_2ndsem.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form1.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form2.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IARS.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ICET.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ITED.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Properties.Resources.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Signup.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\MySql.Data.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Buffers.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Memory.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\ZstdSharp.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\MySql.Data.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Buffers.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Memory.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CopyComplete
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\MaterialSkin.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.SelectInstitutes.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseOperation.resources
+C:\Users\Galie Relacion\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG_INSTITUTE.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\MaterialSkin.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\MySql.Data.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Buffers.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Memory.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\ZstdSharp.dll
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\MySql.Data.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Buffers.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Memory.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1st_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2nd_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rd_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_1sem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1year_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_1styear.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4htyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_1styear.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1st_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2nd_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rd_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4th_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1st_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2nd_LIstview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rd_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4th_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_1stsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseInstitute.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseOperation.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1st_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1styear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2nd_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2ndyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rd_Listview.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rdyear_2ndsem.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form1.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form2.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IARS.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG_INSTITUTE.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ICET.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.ITED.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Properties.Resources.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.Signup.resources
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentG.CACBC562.Up2Date
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+C:\Users\Jay Ababon\source\repos\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\MaterialSkin.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\MySql.Data.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Buffers.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Memory.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\ZstdSharp.dll
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\MySql.Data.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Buffers.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Memory.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1st_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2nd_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rd_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_1sem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1year_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_1styear.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4htyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_1styear.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1st_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2nd_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rd_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4th_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1st_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2nd_LIstview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rd_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4th_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_1stsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseInstitute.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1st_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1styear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2nd_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2ndyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rd_Listview.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rdyear_2ndsem.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form1.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form2.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.IARS.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG_INSTITUTE.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ICET.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ITED.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Properties.Resources.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Signup.resources
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentG.CACBC562.Up2Date
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+C:\Users\jayje\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\MaterialSkin.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\MySql.Data.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Buffers.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Memory.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\ZstdSharp.dll
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\MySql.Data.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Buffers.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Memory.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ACT_2ndyear_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSA_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAB_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1st_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2nd_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rd_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSABE_4th_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAIS_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSAMASCPH_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSDC_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_1sem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEE_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEME_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_1year_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_1styear.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMF_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4htyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMHE_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMM_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMS_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_1styear.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSEMSS_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1st_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2nd_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rd_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4th_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIS_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1st_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2nd_LIstview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rd_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4th_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSIT_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.BSPA_4thyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_1stsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.CAS_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ChooseInstitute.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1st_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_1styear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2nd_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_2ndyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rd_Listview.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.DIT_3rdyear_2ndsem.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form1.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Form2.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.IARS.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG_INSTITUTE.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.IBEG.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ICET.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.ITED.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Properties.Resources.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Signup.resources
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentG.CACBC562.Up2Date
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+C:\Users\Jay Jemino Ababon\source\repos\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb

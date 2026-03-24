@@ -1,0 +1,21 @@
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\QR Code Scanner.exe.config
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\QR Code Scanner.exe
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\QR Code Scanner.pdb
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\AForge.dll
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\AForge.Video.dll
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\zxing.dll
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\zxing.presentation.dll
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\AForge.xml
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\AForge.Video.xml
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\zxing.xml
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\bin\Debug\zxing.presentation.xml
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR Code Scanner.csproj.AssemblyReference.cache
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR_Code_Scanner.Form1.resources
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR_Code_Scanner.Properties.Resources.resources
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR Code Scanner.csproj.GenerateResource.cache
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR Code Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR Code .9B1F3A72.Up2Date
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR Code Scanner.exe
+C:\Users\Jay Jemino Ababon\source\repos\QR Code Scanner\QR Code Scanner\obj\Debug\QR Code Scanner.pdb

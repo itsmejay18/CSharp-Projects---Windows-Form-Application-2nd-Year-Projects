@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E2C74D-D298-493D-8E24-D5F62293B535}|Pornhub.Site\\Pornhub.Site.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\pornhub.site\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0E2C74D-D298-493D-8E24-D5F62293B535}|Pornhub.Site\\Pornhub.Site.csproj|solutionrelative:pornhub.site\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E2C74D-D298-493D-8E24-D5F62293B535}|Pornhub.Site\\Pornhub.Site.csproj|c:\\users\\jay jemino ababon\\source\\repos\\pornhub.site\\pornhub.site\\pornhub.site\\introporn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0E2C74D-D298-493D-8E24-D5F62293B535}|Pornhub.Site\\Pornhub.Site.csproj|solutionrelative:pornhub.site\\introporn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E2C74D-D298-493D-8E24-D5F62293B535}|Pornhub.Site\\Pornhub.Site.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\pornhub.site\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0E2C74D-D298-493D-8E24-D5F62293B535}|Pornhub.Site\\Pornhub.Site.csproj|solutionrelative:pornhub.site\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "introporn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\Pornhub.Site\\introporn.cs",
+              "RelativeDocumentMoniker": "Pornhub.Site\\introporn.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\Pornhub.Site\\introporn.cs [Design]",
+              "RelativeToolTip": "Pornhub.Site\\introporn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:42:24.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\Pornhub.Site\\Form1.cs",
+              "RelativeDocumentMoniker": "Pornhub.Site\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\Pornhub.Site\\Form1.cs [Design]",
+              "RelativeToolTip": "Pornhub.Site\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:01:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\Pornhub.Site\\register.cs",
+              "RelativeDocumentMoniker": "Pornhub.Site\\register.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Pornhub.Site\\Pornhub.Site\\Pornhub.Site\\register.cs [Design]",
+              "RelativeToolTip": "Pornhub.Site\\register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:57:29.166Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

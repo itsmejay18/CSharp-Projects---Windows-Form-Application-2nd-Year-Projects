@@ -1,0 +1,30 @@
+D:\c#\SpaceWar\bin\Debug\SpaceWar.exe.config
+D:\c#\SpaceWar\bin\Debug\SpaceWar.exe
+D:\c#\SpaceWar\bin\Debug\SpaceWar.pdb
+D:\c#\SpaceWar\obj\Debug\SpaceWar.csproj.AssemblyReference.cache
+D:\c#\SpaceWar\obj\Debug\SpaceWar.Form1.resources
+D:\c#\SpaceWar\obj\Debug\SpaceWar.Properties.Resources.resources
+D:\c#\SpaceWar\obj\Debug\SpaceWar.csproj.GenerateResource.cache
+D:\c#\SpaceWar\obj\Debug\SpaceWar.csproj.CoreCompileInputs.cache
+D:\c#\SpaceWar\obj\Debug\SpaceWar.exe
+D:\c#\SpaceWar\obj\Debug\SpaceWar.pdb
+F:\Back-Up\c#\SpaceWar\bin\Debug\SpaceWar.exe.config
+F:\Back-Up\c#\SpaceWar\bin\Debug\SpaceWar.exe
+F:\Back-Up\c#\SpaceWar\bin\Debug\SpaceWar.pdb
+F:\Back-Up\c#\SpaceWar\obj\Debug\SpaceWar.csproj.AssemblyReference.cache
+F:\Back-Up\c#\SpaceWar\obj\Debug\SpaceWar.Form1.resources
+F:\Back-Up\c#\SpaceWar\obj\Debug\SpaceWar.Properties.Resources.resources
+F:\Back-Up\c#\SpaceWar\obj\Debug\SpaceWar.csproj.GenerateResource.cache
+F:\Back-Up\c#\SpaceWar\obj\Debug\SpaceWar.csproj.CoreCompileInputs.cache
+F:\Back-Up\c#\SpaceWar\obj\Debug\SpaceWar.exe
+F:\Back-Up\c#\SpaceWar\obj\Debug\SpaceWar.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\bin\Debug\SpaceWar.exe.config
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\bin\Debug\SpaceWar.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\bin\Debug\SpaceWar.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\obj\Debug\SpaceWar.csproj.AssemblyReference.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\obj\Debug\SpaceWar.Form1.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\obj\Debug\SpaceWar.Properties.Resources.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\obj\Debug\SpaceWar.csproj.GenerateResource.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\obj\Debug\SpaceWar.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\obj\Debug\SpaceWar.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\SpaceWar\obj\Debug\SpaceWar.pdb

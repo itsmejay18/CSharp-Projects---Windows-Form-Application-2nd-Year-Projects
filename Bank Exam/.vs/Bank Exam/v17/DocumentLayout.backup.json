@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|c:\\users\\jay jemino ababon\\source\\repos\\bank exam\\bank exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|solutionrelative:bank exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\bank exam\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|solutionrelative:bank exam\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\bank exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|solutionrelative:bank exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\bank exam\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F8BB4D-E97C-47A5-8893-A076EC85A278}|Bank Exam\\Bank Exam.csproj|solutionrelative:bank exam\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank Exam\\Bank.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Bank.cs",
+              "RelativeToolTip": "Bank Exam\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:21:20.734Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Account.cs",
+              "RelativeDocumentMoniker": "Bank Exam\\Account.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Account.cs",
+              "RelativeToolTip": "Bank Exam\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:18:58.134Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Bank Exam\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Form1.cs",
+              "RelativeToolTip": "Bank Exam\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAjwEQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:31:18.138Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Bank Exam\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\Bank Exam\\Bank Exam\\Form1.cs [Design]",
+              "RelativeToolTip": "Bank Exam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:18:03.8Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

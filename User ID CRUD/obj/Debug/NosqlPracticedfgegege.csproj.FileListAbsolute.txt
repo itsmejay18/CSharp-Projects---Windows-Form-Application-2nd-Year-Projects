@@ -1,0 +1,20 @@
+D:\C#(2nd Year)\NosqlPracticedfgegege\bin\Debug\NosqlPracticedfgegege.exe.config
+D:\C#(2nd Year)\NosqlPracticedfgegege\bin\Debug\NosqlPracticedfgegege.exe
+D:\C#(2nd Year)\NosqlPracticedfgegege\bin\Debug\NosqlPracticedfgegege.pdb
+D:\C#(2nd Year)\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.csproj.AssemblyReference.cache
+D:\C#(2nd Year)\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.Form1.resources
+D:\C#(2nd Year)\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.Properties.Resources.resources
+D:\C#(2nd Year)\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.csproj.GenerateResource.cache
+D:\C#(2nd Year)\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.csproj.CoreCompileInputs.cache
+D:\C#(2nd Year)\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.exe
+D:\C#(2nd Year)\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\bin\Debug\NosqlPracticedfgegege.exe.config
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\bin\Debug\NosqlPracticedfgegege.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\bin\Debug\NosqlPracticedfgegege.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.csproj.AssemblyReference.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.Form1.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.Properties.Resources.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.csproj.GenerateResource.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\NosqlPracticedfgegege\obj\Debug\NosqlPracticedfgegege.pdb

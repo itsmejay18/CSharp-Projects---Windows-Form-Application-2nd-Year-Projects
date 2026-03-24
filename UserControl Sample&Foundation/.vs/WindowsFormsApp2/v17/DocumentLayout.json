@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\UserControl Sample\u0026Foundation.csproj|c:\\users\\jay jemino ababon\\source\\repos\\usercontrol sample\u0026foundation\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\UserControl Sample\u0026Foundation.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\UserControl Sample\u0026Foundation.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\UserControl Sample\u0026Foundation.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\UserControl Sample\u0026Foundation.csproj|C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\windowsformsapp2\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A8D8A7D-CF5F-43F2-B213-11ECE23D43AA}|WindowsFormsApp2\\UserControl Sample\u0026Foundation.csproj|solutionrelative:windowsformsapp2\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:04:10.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\jayje\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\jayje\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:04:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:41:03.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\jayje\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\UserControl1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\jayje\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:36:35.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jay Jemino Ababon\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\jayje\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\jayje\\source\\repos\\UserControl Sample\u0026Foundation\\WindowsFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:35:29.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

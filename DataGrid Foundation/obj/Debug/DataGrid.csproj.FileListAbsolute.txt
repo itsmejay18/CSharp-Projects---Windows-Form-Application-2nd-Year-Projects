@@ -1,0 +1,33 @@
+D:\c#\DataGrid\bin\Debug\DataGrid.exe.config
+D:\c#\DataGrid\bin\Debug\DataGrid.exe
+D:\c#\DataGrid\bin\Debug\DataGrid.pdb
+D:\c#\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+D:\c#\DataGrid\obj\Debug\DataGrid.Form1.resources
+D:\c#\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+D:\c#\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+D:\c#\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+D:\c#\DataGrid\obj\Debug\DataGrid.exe
+D:\c#\DataGrid\obj\Debug\DataGrid.pdb
+D:\c#\DataGrid\obj\Debug\DataGrid.Form2.resources
+F:\Back-Up\c#\DataGrid\bin\Debug\DataGrid.exe.config
+F:\Back-Up\c#\DataGrid\bin\Debug\DataGrid.exe
+F:\Back-Up\c#\DataGrid\bin\Debug\DataGrid.pdb
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.Form1.resources
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.Form2.resources
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.exe
+F:\Back-Up\c#\DataGrid\obj\Debug\DataGrid.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.Form2.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\Jay Jemino Ababon\source\repos\Backup Files\DataGrid\obj\Debug\DataGrid.pdb
